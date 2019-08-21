@@ -20,7 +20,7 @@ import java.io.File;
 /**
  * @Auther: likui
  * @Date: 2019/8/9 20:45
- * @Description: 将本地文件上传至HDFS，统计访问量
+ * @Description: 总访问量统计，将本地文件上传至HDFS，统计访问量上传HDFS
  */
 @RestController
 public class PvCountController {

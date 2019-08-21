@@ -10,7 +10,7 @@ import java.io.IOException;
 /**
  * @Auther: likui
  * @Date: 2019/8/9 20:53
- * @Description: 自定义Reduce
+ * @Description: 总访问量统计，自定义Reduce
  */
 public class PvCountReduce extends Reducer<Text, LongWritable, NullWritable, LongWritable> {
 

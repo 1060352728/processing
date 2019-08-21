@@ -9,7 +9,7 @@ import java.io.IOException;
 /**
  * @Auther: likui
  * @Date: 2019/8/9 20:47
- * @Description: 自定义Mapper
+ * @Description: 总访问量统计，自定义Mapper
  */
 public class PvCountMapper extends Mapper<LongWritable, Text, Text, LongWritable> {
 

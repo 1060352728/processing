@@ -16,4 +16,6 @@ public class HdfsConstants {
     public static final String FILE_PATH = "D:\\java_workspace\\bigdata_workspace\\processing\\src\\main\\resources\\file\\trackinfo_20130721.data";
     public static final String UPLOAD_PV = "/pvcount/";
     public static final String OUT_PUT_PV_RESULT = "/pv/result";
+    public static final String UPLOAD_PROVINCE = "/provincecount/";
+    public static final String OUT_PUT_PROVINCE_RESULT = "/province/result";
 }
